@@ -133,7 +133,7 @@ This project has significantly contributed to my growth as a cybersecurity and I
 
 ---
 
-## 📄 Certificates Earned
+## 📄 LinkedIn Certificates Earned
 
 During this course, I completed these project management certificates:
 
